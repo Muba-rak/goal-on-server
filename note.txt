@@ -1,0 +1,34 @@
+Generate package.json
+
+install packages (express, mongoose, nodemon)
+
+create your main file
+
+write all of the necessary scripts in your package.json
+
+set up a basic express server in your index.js
+
+error route
+
+open models, controller, routes folder
+
+dotenv npm i dotenv
+
+create .env
+config the dotenv
+get our db connection string
+
+set up mongoose connection
+
+set gitingonre
+
+build our schema
+
+title- String, required, Unique
+description: String, required, 
+progress : Number,  default: 0 min: 0, max: 100
+timestamps: 
+
+functions
+
+routes

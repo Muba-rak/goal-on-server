@@ -32,3 +32,16 @@ timestamps:
 functions
 
 routes
+
+getting al of the goals
+creating a goal
+
+update and delete
+code cleanup
+
+fetch request to our server
+
+cross origin resource sharing 
+npm install cors
+
+//get that thing

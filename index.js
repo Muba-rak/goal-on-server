@@ -3,10 +3,12 @@ const express = require("express");
 const app = express();
 const PORT = 8000;
 const mongoose = require("mongoose");
+const cors = require("cors");
 const goalRouter = require("./routes/goalRouter");
 
 //middleware
 app.use(express.json());
+app.use(cors());
 
 //route
 app.use("/api/goals", goalRouter);

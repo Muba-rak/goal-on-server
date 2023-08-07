@@ -44,4 +44,7 @@ fetch request to our server
 cross origin resource sharing 
 npm install cors
 
-//get that thing
+code cleanup
+hosting our backend project
+
+// update the port number
